@@ -1,0 +1,6 @@
+So what is the diffenece between ML,DL,Ai?
+=> So if i start with machine learning,machine learning is a algorithm of a datasrt,
+like if i give a dataset,ML will find a algorith from that dataset and make decision on it.
+then come to deep learning,deep learning is a special kind of machine learning,we can say it is a sub set of 
+machine learning that works on a specific task.
+and ai actually works using the algorithm of machine learnning,it is broder than ml 
